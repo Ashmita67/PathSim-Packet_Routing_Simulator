@@ -2,7 +2,6 @@
 
 **PathSim** is a visual, interactive simulator built with Streamlit and Python to demonstrate packet routing across a computer network using **Dijkstra’s** and **Bellman-Ford** algorithms. 
 It visualizes topology changes dynamically, and generate **routing tables** for each node. It also supports network event simulations like **edge removals** and **dynamic weight updates**, providing a solid foundation for penetration testing, routing analysis, and network optimization research.
----
 
 ## 🚀 Features
 
